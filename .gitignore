@@ -1,4 +1,3 @@
-/build
-/dist
+QuranRenamer/bin
+QuranRenamer/obj
 /Quran-Test
-*.spec
